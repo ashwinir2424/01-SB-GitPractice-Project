@@ -9,3 +9,4 @@ Hows your day....
 welcome to AshuTechTalk
 
 int a=10;
+int b=20;
